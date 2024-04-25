@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Welcome to Our Website</title>
 <!-- hi good morning abo gasan -->
+<!-- hala hala ya gali --> 
 <style>
     body {
         font-family: Arial, sans-serif;
